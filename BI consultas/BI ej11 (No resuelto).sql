@@ -1,0 +1,1 @@
+/*Monto mensual generado en cupones a partir de reclamos.*/
